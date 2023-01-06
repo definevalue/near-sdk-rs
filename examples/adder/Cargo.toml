@@ -15,7 +15,7 @@ schemars = "0.8"
 [dev-dependencies]
 workspaces = "0.4.1"
 serde_json = "1.0"
-tokio = { version = "1.14", features = ["full"] }
+tokio = { version = "1.20", features = ["full"] }
 anyhow = "1.0"
 near-abi = "0.1.0-pre.0"
 zstd = "0.11"
